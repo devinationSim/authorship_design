@@ -1,9 +1,9 @@
 {
-  "name": "BoxyHQ Enterprise SaaS Starter Kit",
-  "description": "The Open Source Next.js Enterprise SaaS Starter Kit. Next.js based SaaS starter kit that saves you months of development by starting you off with all the features that are the same in every product, so you can focus on what makes your app unique.",
-  "repository": "https://github.com/boxyhq/saas-starter-kit",
+  "name": "Authorship Design",
+  "description": "Unlock creativity with adaptable, low-barrier writing software to make your next project",
+  "repository": "https://github.com/devinationSim/authorship_design.git",
   "logo": "https://boxyhq.com/img/logo.png",
-  "keywords": ["saas", "starter", "kit", "enterprise"],
+  "keywords": ["writing", "dashboard", "organize", "author"],
   "env": {
     "NEXTAUTH_URL": {
       "description": "Next.js authentication URL."
