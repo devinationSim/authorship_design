@@ -1,32 +1,31 @@
 [
   {
-    "amount": "30k",
-    "currency": "USD",
-    "duration": "month",
+    "amount": "Free",
+    "currency": "",
+    "duration": "",
     "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
     "benefits": [
-      "Up to 20 users.",
-      "Free storage upto 1GB",
-      "Lifetime validity"
+      "Up to 3 boards",
+      "Free storage up to 1GB"
     ]
   },
   {
-    "amount": "120k",
+    "amount": "$15",
     "currency": "USD",
     "duration": "month",
     "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-    "benefits": ["Up to 500 users.", "Storage upto 50GB", "24*7 support"]
+    "benefits": ["Up to 10 boards", "Storage upto 50GB", "Cloud Data Backups"]
   },
   {
-    "amount": "350k",
+    "amount": "$25",
     "currency": "USD",
     "duration": "month",
     "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
     "benefits": [
-      "Up to 1000 users.",
-      "Storage upto 100GB",
-      "24*7 support",
-      "Data backups"
+      "Unlimited Boards",
+      "Storage up to 50GB",
+      "Cloud Data Backups",
+      "24*7 support"
     ]
   }
 ]
