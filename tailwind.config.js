@@ -7,7 +7,7 @@ module.exports = {
     'node_modules/daisyui/dist/**/*.js',
   ],
   daisyui: {
-    themes: ['corporate', 'black'],
+    themes: ['winter', 'night'],
   },
   plugins: [require('@tailwindcss/typography'), require('daisyui')],
 };
